@@ -1,2 +1,2 @@
-# Serverless-Rest-APIs
-Serverless Rest API Practice
+# EShark - A Serverless REST APIs Development Project
+
